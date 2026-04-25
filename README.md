@@ -1,3 +1,3 @@
 # Calculadora-Python
 
-Criando uma calculadora utilizando a biblioteca Tkinter!
+Criando uma calculadora sem o tkinter para fins de aprendizado em DevOps
